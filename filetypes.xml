@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".terminusMaximus" type="JSON" />
+      <mapping pattern=".lintlog" type="Native" />
+      <mapping pattern=".gitattributes" type="Native" />
+      <mapping ext="lint" type="Native" />
+      <mapping ext="snap" type="Native" />
+      <mapping pattern="$npm_package_sass_output_path" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="publickey" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="SPT-compile" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="MultipleRowSelectableTableOnChange" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="3509303276" type="PLAIN_TEXT" />
+      <mapping ext="1762847109" type="PLAIN_TEXT" />
+      <mapping ext="2228499453" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
