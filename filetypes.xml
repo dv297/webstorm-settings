@@ -10,6 +10,7 @@
       <mapping pattern="publickey" type="PLAIN_TEXT" />
       <mapping pattern="SPT-compile" type="PLAIN_TEXT" />
       <mapping pattern="MultipleSelectableRowsWithSubheader" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="MultipleRowSelectableTableOnChange" type="PLAIN_TEXT" />
       <mapping pattern=".nvm" type="PLAIN_TEXT" />
