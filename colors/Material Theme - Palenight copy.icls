@@ -4,7 +4,7 @@
     <property name="created">2017-08-11T15:17:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2017-10-20T20:45:07</property>
+    <property name="modified">2017-11-20T15:02:09</property>
     <property name="originalScheme">_@user_Material Theme - Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -49,7 +49,7 @@
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="QUESTION_HINT" value="292d3e" />
-    <option name="RIGHT_MARGIN_COLOR" value="444267" />
+    <option name="RIGHT_MARGIN_COLOR" value="f9c96" />
     <option name="SELECTED_INDENT_GUIDE" value="828ed5" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="32374d" />
