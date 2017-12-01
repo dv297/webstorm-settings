@@ -6,6 +6,7 @@
       <mapping pattern=".lintlog" type="Native" />
       <mapping ext="lint" type="Native" />
       <mapping ext="snap" type="Native" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="publickey" type="PLAIN_TEXT" />
       <mapping pattern="SPT-compile" type="PLAIN_TEXT" />
