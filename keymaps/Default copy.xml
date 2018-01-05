@@ -8,6 +8,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="CheckinProject" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -19,6 +20,9 @@
   </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="Subversion.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
