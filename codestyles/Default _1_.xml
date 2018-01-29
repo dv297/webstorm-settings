@@ -18,6 +18,7 @@
   </MarkdownNavigatorCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <editorconfig>
@@ -49,6 +50,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
