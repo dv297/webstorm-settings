@@ -43,6 +43,8 @@
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
