@@ -1,14 +1,7 @@
 <toolSet name="External Tools">
-  <tool name="JSDoc" description="Generate JSDoc for a directory or file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Users\dv045327\AppData\Roaming\npm\jsdoc.cmd" />
-      <option name="PARAMETERS" value="$FilePath$ -d jsdoc" />
-      <option name="WORKING_DIRECTORY" value="$FilePrompt$" />
-    </exec>
-  </tool>
   <tool name="prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="prettier" />
+      <option name="COMMAND" value="C:\Users\dv045327\AppData\Roaming\npm\prettier.cmd" />
       <option name="PARAMETERS" value="--config C:\workspace\prettier-config\prettier.config.js --write $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
