@@ -1,10 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
-    <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="cb270f" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="c6ff00" />
+    <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
