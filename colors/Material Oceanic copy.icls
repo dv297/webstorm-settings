@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
+<scheme name="Material Oceanic copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-02-06T11:09:44</property>
+    <property name="created">2018-03-10T22:06:55</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-10T21:59:23</property>
-    <property name="originalScheme">Material Oceanic</property>
+    <property name="ideVersion">2017.3.5.0.0</property>
+    <property name="modified">2018-03-10T22:10:45</property>
+    <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -72263,7 +72263,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="BACKGROUND" value="282c35" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
