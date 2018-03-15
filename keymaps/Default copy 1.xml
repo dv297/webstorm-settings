@@ -2,6 +2,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="CheckinProject" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -11,5 +12,8 @@
   <action id="EditorDeleteLine" />
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="Tool_External Tools_prettier">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="p" />
   </action>
 </keymap>
