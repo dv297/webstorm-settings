@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Users\dv045327\AppData\Roaming\npm\prettier.cmd" />
       <option name="PARAMETERS" value="--config C:\workspace\prettier-config\prettier.config.js --write $FilePathRelativeToProjectRoot$" />
