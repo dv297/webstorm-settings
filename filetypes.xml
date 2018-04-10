@@ -4,6 +4,7 @@
       <mapping pattern="JARsForAssemblyProvider" type="PLAIN_TEXT" />
       <mapping pattern="DependenciesForArtifactProvider" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="2scss" type="PLAIN_TEXT" />
       <mapping pattern="AssemblyView" type="TypeScript JSX" />
     </extensionMap>
   </component>
