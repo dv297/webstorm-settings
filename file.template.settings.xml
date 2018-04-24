@@ -1,9 +1,8 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="JSX (Stateful).jsx" reformat="false" live-template-enabled="false" />
-      <template name="JSX (Stateless).jsx" reformat="false" live-template-enabled="false" />
-      <template name="JSX Index༏ext༏._index.js" reformat="false" live-template-enabled="false" />
+      <template name="Stateful Component.jsx" reformat="true" live-template-enabled="true" />
+      <template name="Stateless Component.jsx" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
