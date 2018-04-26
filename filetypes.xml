@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="snap" type="Native" />
       <mapping pattern="JARsForAssemblyProvider" type="PLAIN_TEXT" />
       <mapping pattern="DependenciesForArtifactProvider" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
