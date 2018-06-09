@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="snap" type="Native" />
       <mapping pattern="JARsForAssemblyProvider" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="setting-up-testcafe" type="PLAIN_TEXT" />
       <mapping pattern="DependenciesForArtifactProvider" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
