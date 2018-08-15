@@ -9,4 +9,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="cpyrt" value="/**&#10; * @license&#10; * Copyright &amp;copy 2018 Cerner Corporation&#10; *&#10; * @author Daniel Vu&#10; */&#10; &#10; " description="Add Copyright Doc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
