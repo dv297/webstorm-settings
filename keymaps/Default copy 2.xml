@@ -5,6 +5,7 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="CheckinProject" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -19,6 +20,9 @@
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="b" />
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
